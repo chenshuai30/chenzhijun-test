@@ -3,6 +3,7 @@ bin/
 node_modules/
 bin-debug/
 bin-release/
+package-lock.json
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 

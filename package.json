@@ -1,10 +1,10 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "chenzhijun-demo",
     "author": "chenzhijun",
     "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
     "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
-    "devDependencies": {
+    "dependencies": {
         "axios": "^0.18.0"
     },
     "repository": "https://github.com/chenshuai30/chenzhijun-test.git",

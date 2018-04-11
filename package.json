@@ -1,11 +1,12 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "name": "chenzhijun-demo",
   "author": "chenzhijun",
   "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
   "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "commander": "^2.15.1"
   },
   "bin": {
     "demo": "./bin/demo.js"
@@ -16,8 +17,5 @@
   "repository": "https://github.com/chenshuai30/chenzhijun-test.git",
   "email": "chenshuai@qq.com",
   "description": "axios",
-  "license": "",
-  "devDependencies": {
-    "commander": "^2.15.1"
-  }
+  "license": ""
 }

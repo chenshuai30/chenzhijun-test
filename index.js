@@ -1,8 +1,5 @@
-import axios from 'axios';
+const axios = require('axios');
 const util = {};
-if (DEV) {
-    axios.defaults.baseURL = 'http://' + window.location.hostname + ':8080';
-}
 axios.defaults.headers['Content-Type'] = 'application/x-www-form-urlencoded;charset=utf-8';
 axios.defaults.headers['Access-Control-Allow-Origin'] = '*';
 let session = sessionStorage.getItem('token');

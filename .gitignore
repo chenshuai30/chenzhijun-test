@@ -5,7 +5,7 @@ bin-release/
 package-lock.json
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
-
+node_modules
 # Other files and folders
 .settings/
 

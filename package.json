@@ -1,14 +1,21 @@
 {
-    "version": "1.0.3",
-    "name": "chenzhijun-demo",
-    "author": "chenzhijun",
-    "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
-    "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
-    "dependencies": {
-        "axios": "^0.18.0"
-    },
-    "repository": "https://github.com/chenshuai30/chenzhijun-test.git",
-    "email": "chenshuai@qq.com",
-    "description": "axios",
-    "license": ""
+  "version": "1.0.4",
+  "name": "chenzhijun-demo",
+  "author": "chenzhijun",
+  "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
+  "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.15.1"
+  },
+  "bin": {
+    "geAsar": "./bin/geAsar.js"
+  },
+  "keywords": [
+    "测试"
+  ],
+  "repository": "https://github.com/chenshuai30/chenzhijun-test.git",
+  "email": "chenshuai@qq.com",
+  "description": "axios",
+  "license": ""
 }

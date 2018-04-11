@@ -1,11 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "chenzhijun-demo",
     "author": "chenzhijun",
     "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
+    "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
     "devDependencies": {
         "axios": "^0.18.0"
     },
-    "repository": "https://github.com/chenshuai30/chenzhijun-test",
-    "email": "chenshuai@qq.com"
+    "repository": "https://github.com/chenshuai30/chenzhijun-test.git",
+    "email": "chenshuai@qq.com",
+    "description": "axios",
+    "license": ""
 }

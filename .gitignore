@@ -1,6 +1,5 @@
 # Build and Release Folders
 bin/
-node_modules/
 bin-debug/
 bin-release/
 package-lock.json

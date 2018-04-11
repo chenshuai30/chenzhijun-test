@@ -5,8 +5,7 @@
   "_resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
   "resolved": "https://github.com/chenshuai30/chenzhijun-test.git",
   "dependencies": {
-    "axios": "^0.18.0",
-    "commander": "^2.15.1"
+    "axios": "^0.18.0"
   },
   "bin": {
     "geAsar": "./bin/geAsar.js"
@@ -17,5 +16,8 @@
   "repository": "https://github.com/chenshuai30/chenzhijun-test.git",
   "email": "chenshuai@qq.com",
   "description": "axios",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "commander": "^2.15.1"
+  }
 }
